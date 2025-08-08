@@ -6,8 +6,8 @@ license.workspace = true
 edition.workspace = true
 repository.workspace = true
 keywords.workspace = true
+autobins = false
 
 
 [dependencies]
-rand.workspace = true
-nannou.workspace = true
+bevy.workspace = true
